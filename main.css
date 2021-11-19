@@ -1,0 +1,15 @@
+body{
+	margin: 0;
+	padding: 0;
+	background: #000;
+}
+p{
+	font-size: 12px;
+	line-height: 10px;
+	-webkit-background-size: cover;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	background: url(pog-ConvertImage.jpg);
+	background-attachment: fixed;
+}
